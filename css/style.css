@@ -34,6 +34,7 @@ html {
   display: none;
 }
 .slideshow .slider .item img {
+  object-fit: contain;
   position: absolute;
   top: 50%;
   left: 50%;
